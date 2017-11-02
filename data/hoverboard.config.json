@@ -85,21 +85,19 @@
   "location": {
     "apiKey": "",
     "name": "TO BE DICLOSED",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "address": "NIIT , Ring Road Central, Accra",
+    "link": "https://www.niitghana.com/",
     "pointer": {
-      "latitude": 5.5548003,
-      "longitude": -0.2034327,
+      "latitude": 5.5707992,
+      "longitude": -0.2094742,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 5.5548003,
-      "longitude": -0.2034327
+      "latitude": 5.5707992,
+      "longitude": -0.2094742
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/NIIT_NEI_Logo.png"
     ]
   },
   "gallery": {
@@ -121,7 +119,7 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "GDG DevFest Ghana 2017",
           "youtubeId": "TdpbgRgz6eE",
           "text": "See how it was in 2016"
         },
