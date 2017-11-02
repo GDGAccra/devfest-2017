@@ -101,12 +101,12 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://drive.google.com/drive/folders/0B2H35XVhwgXkN2ZUMU9fb25PdEU?usp=sharing",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/003.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/002.JPG",
+        "/images/backgrounds/001.jpg"
       ]
     }
   },
