@@ -1,10 +1,10 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "https://devfest-gh.firebaseio.com",
+  "startDate": "2017-11-25T10:00:00",
+  "endDate": "2017-11-25T17:00:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "",
+    "dev": ""
   },
   "organizer": {
     "name": "GDG Accra",
@@ -43,10 +43,7 @@
       "route": "home",
       "permalink": "/"
     },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
-    },
+
     {
       "route": "schedule",
       "permalink": "/schedule/"
@@ -54,10 +51,6 @@
     {
       "route": "speakers",
       "permalink": "/speakers/"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/"
     }
   ],
   "social": [
@@ -85,30 +78,28 @@
   "location": {
     "apiKey": "",
     "name": "TO BE DICLOSED",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "address": "NIIT , Ring Road Central, Accra",
+    "link": "https://www.niitghana.com/",
     "pointer": {
-      "latitude": 5.5548003,
-      "longitude": -0.2034327,
+      "latitude": 5.5707992,
+      "longitude": -0.2094742,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 5.5548003,
-      "longitude": -0.2034327
+      "latitude": 5.5707992,
+      "longitude": -0.2094742
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/niit.png"
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://drive.google.com/drive/folders/0B2H35XVhwgXkN2ZUMU9fb25PdEU?usp=sharing",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/003.jpg",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/002.JPG",
+        "/images/backgrounds/001.jpg"
       ]
     }
   },
@@ -120,21 +111,8 @@
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
-        "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
-        },
         "hideLogo": true,
         "minHeight": "360px"
-      }
-    },
-    "blog": {
-      "title": "Blog",
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
       }
     },
     "speakers": {
@@ -149,14 +127,6 @@
       "title": "Schedule",
       "headerSettings": {
         "backgroundColor": "#673ab7",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "team": {
-      "title": "Team",
-      "headerSettings": {
-        "backgroundColor": "#009688",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
