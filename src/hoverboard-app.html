@@ -189,8 +189,7 @@
                          schedule="{{schedule}}"
                          sessions="{{sessions}}"></schedule-page>
 
-          <team-page name="team"
-                     app="{{app}}"></team-page>
+
 
           <cod-page name="cod"
                     app="{{app}}"></cod-page>
@@ -200,12 +199,6 @@
 
     </app-drawer-layout>
 
-    <video-dialog id="videoDialog"
-                  video-title="[[video.title]]"
-                  youtube-id="[[video.youtubeId]]"
-                  entry-animation="scale-up-animation"
-                  exit-animation="fade-out-animation"
-                  disable-controls="[[!video.disableControls]]"></video-dialog>
 
     <toast-element id="toast" app="{{app}}"></toast-element>
 
@@ -336,72 +329,7 @@
           }
         },
 
-        openVideo: function (title, youtubeId, disableControls) {
-          this.video = {
-            title: title,
-            youtubeId: youtubeId,
-            disableControls: disableControls
-          };
-          this.$.videoDialog.open();
-        },
 
-        signIn: function () {
-          this.$.auth.signInWithPopup()
-            .then(function (signInObject) {
-              if (navigator.credentials) {
-                var cred = new FederatedCredential({
-                  id: signInObject.user.email,
-                  name: signInObject.user.displayName,
-                  iconURL: signInObject.user.photoURL,
-                  provider: 'https://accounts.google.com'
-                });
-
-                navigator.credentials.store(cred);
-              }
-            });
-        },
-
-        signOut: function () {
-          this.$.auth.signOut()
-            .then(function () {
-              if (navigator.credentials) {
-                navigator.credentials.requireUserMediation();
-              }
-            });
-        },
-
-        _autoSignIn: function (authStatusKnown) {
-          if (navigator.credentials
-            && authStatusKnown
-            && !this.app.user) {
-            return navigator.credentials.get({
-              password: true,
-              federated: {
-                providers: ['https://accounts.google.com']
-              },
-              unmediated: true
-            }).then(function (cred) {
-              if (cred) {
-                this.gSignIn(cred.id);
-              }
-            }.bind(this));
-          }
-        },
-
-        gSignIn: function (id) {
-          return (function () {
-            if (this.app.user && this.app.user.email === id) {
-              return Promise.resolve(this.app.user);
-            }
-
-            var provider = new firebase.auth.GoogleAuthProvider();
-            provider.setCustomParameters({
-              'login_hint': id || ''
-            });
-
-            return this.$.auth.signInWithPopup(provider);
-          }.bind(this))();
-        }
 
       });
 

@@ -43,10 +43,7 @@
       "route": "home",
       "permalink": "/"
     },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
-    },
+
     {
       "route": "schedule",
       "permalink": "/schedule/"
@@ -54,10 +51,6 @@
     {
       "route": "speakers",
       "permalink": "/speakers/"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/"
     }
   ],
   "social": [
@@ -122,14 +115,6 @@
         "minHeight": "360px"
       }
     },
-    "blog": {
-      "title": "Blog",
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
     "speakers": {
       "title": "Speakers",
       "headerSettings": {
@@ -142,14 +127,6 @@
       "title": "Schedule",
       "headerSettings": {
         "backgroundColor": "#673ab7",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
-    "team": {
-      "title": "Team",
-      "headerSettings": {
-        "backgroundColor": "#009688",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
