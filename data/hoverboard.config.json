@@ -3,7 +3,7 @@
   "startDate": "2017-11-25T10:00:00",
   "endDate": "2017-11-25T17:00:00",
   "analytics": {
-    "prod": "",
+    "prod": "UA-39219220-2",
     "dev": ""
   },
   "organizer": {
@@ -25,8 +25,8 @@
     "indexedDbSession": "devfest"
   },
   "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+    "url": "http://eepurl.com/c9R5Bf",
+    "name": ""
   },
   "dateFormat": {
     "locale": "en-US",
@@ -34,16 +34,15 @@
   },
   "hashtag": "devfestgh2017",
   "disqusShortName": "hoverboard-gdg-x",
-  "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "tweetsSource": "",
+  "partnershipProposition": "",
+  "videosSessionsUrl": "https://www.youtube.com/watch?v=vjXdWNymfHw&list=PLj086lFTqpdxj-J9wk_1gV2ML1KzPtsRi",
   "enableSessionsRating": true,
   "navigation": [
     {
       "route": "home",
       "permalink": "/"
     },
-
     {
       "route": "schedule",
       "permalink": "/schedule/"
@@ -51,6 +50,10 @@
     {
       "route": "speakers",
       "permalink": "/speakers/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
     }
   ],
   "social": [
@@ -77,8 +80,8 @@
   ],
   "location": {
     "apiKey": "",
-    "name": "TO BE DICLOSED",
-    "address": "NIIT , Ring Road Central, Accra",
+    "name": "NIIT",
+    "address": "Opposite busy internet, Ring Road",
     "link": "https://www.niitghana.com/",
     "pointer": {
       "latitude": 5.5707992,
@@ -138,6 +141,22 @@
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
+    }
+  },
+  "team": {
+    "title": "Team",
+    "headerSettings": {
+      "backgroundColor": "#009688",
+      "fontColor": "#fff",
+      "tabBarColor": "#fff"
+    }
+  },
+  "cod": {
+    "title": "Code of Conduct",
+    "headerSettings": {
+      "backgroundColor": "#673ab7",
+      "fontColor": "#fff",
+      "tabBarColor": "#fff"
     }
   }
 }
