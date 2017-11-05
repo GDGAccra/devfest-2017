@@ -77,9 +77,6 @@
           "url": "https://developers.google.com/",
           "newTab": true
         }
-
-
-
       ]
     },
     {
@@ -115,7 +112,7 @@
     },
     {
       "counter": 1,
-      "caption": "Days"
+      "caption": "Day"
     },
     {
       "counter": 6,
@@ -127,7 +124,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
+    "videoTitle": "GDG Accra",
+    "videoId": "XsF9lpp1T8E"
   }
 }
