@@ -142,21 +142,5 @@
         "tabBarColor": "#fff"
       }
     }
-  },
-  "team": {
-    "title": "Team",
-    "headerSettings": {
-      "backgroundColor": "#009688",
-      "fontColor": "#fff",
-      "tabBarColor": "#fff"
-    }
-  },
-  "cod": {
-    "title": "Code of Conduct",
-    "headerSettings": {
-      "backgroundColor": "#673ab7",
-      "fontColor": "#fff",
-      "tabBarColor": "#fff"
-    }
   }
 }
