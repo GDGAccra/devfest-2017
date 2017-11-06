@@ -7,14 +7,14 @@
   "motto": "Breaking Grounds",
   "playIcon": "",
   "c4p": "Become a speaker",
-  "buyTicket": "Get ticket",
+  "buyTicket": "Reserve Seat",
   "backToTop": "Back to top",
   "subscribe": "Subscribe",
   "yourEmail": "Your email",
   "subscribeNote": "No spam, only the latest news and updates!",
   "contactUs": "Contact us",
   "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch. Accommodation is NOT included in the ticket price.",
+  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch. Accommodation is NOT included in the reservation.",
   "close": "Close",
   "soldOutTickets": "Sold Out",
   "socialTitle": "Social",
@@ -77,9 +77,6 @@
           "url": "https://developers.google.com/",
           "newTab": true
         }
-
-
-
       ]
     },
     {
@@ -87,7 +84,7 @@
       "links": [
         {
           "text": "Partnership Proposition",
-          "url": "",
+          "url": "https://drive.google.com/file/d/0B1eoCs3e1d_VYzdpbEtQY211UzQ/view",
           "newTab": true
         },
         {
@@ -115,7 +112,7 @@
     },
     {
       "counter": 1,
-      "caption": "Days"
+      "caption": "Day"
     },
     {
       "counter": 6,
@@ -127,7 +124,7 @@
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
+    "videoTitle": "GDG Accra",
+    "videoId": "XsF9lpp1T8E"
   }
 }
