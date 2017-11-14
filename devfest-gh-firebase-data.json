@@ -1,506 +1,356 @@
 {
-  "partners": [
-    {
-      "logos": [
-        {
-          "logoUrl": "../images/logos/gdg-ghana.svg",
-          "name": "GDG Ghana",
-          "url": "https://plus.google.com/102444623953913144164",
-          "width": 170
-        }
-      ],
-      "title": "Main"
+  "partners" : [ {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/gdg-ghana.svg",
+      "name" : "GDG Ghana",
+      "url" : "https://plus.google.com/102444623953913144164",
+      "width" : 170
+    } ],
+    "title" : "Main"
+  }, {
+    "logos" : [ {
+      "logoUrl" : "../images/logos/google.svg",
+      "name" : "Google",
+      "url" : "https://www.google.com.ua/intl/en/about/"
+    }, {
+      "logoUrl" : "../images/logos/gdg-x.svg",
+      "name" : "GDG[x]",
+      "url" : "https://github.com/gdg-x"
+    } ],
+    "title" : "General Partner"
+  } ],
+  "schedule" : [ {
+    "date" : "2017-11-25",
+    "dateReadable" : "November 25",
+    "timeslots" : [ {
+      "endTime" : "10:00",
+      "sessions" : [ [ 101 ] ],
+      "startTime" : "09:00"
+    }, {
+      "endTime" : "10:15",
+      "sessions" : [ [ 102 ] ],
+      "startTime" : "10:00"
+    }, {
+      "endTime" : "10:45",
+      "sessions" : [ [ 103 ] ],
+      "startTime" : "10:15"
+    }, {
+      "endTime" : "11:00",
+      "sessions" : [ [ 104 ] ],
+      "startTime" : "10:45"
+    }, {
+      "endTime" : "12:30",
+      "sessions" : [ [ 105 ], [ 106 ], [ 107 ], [ 108 ] ],
+      "startTime" : "11:00"
+    }, {
+      "endTime" : "13:10",
+      "sessions" : [ [ 109 ] ],
+      "startTime" : "12:30"
+    }, {
+      "endTime" : "13:30",
+      "sessions" : [ [ 110 ] ],
+      "startTime" : "13:15"
+    }, {
+      "endTime" : "14:30",
+      "sessions" : [ [ 111 ], [ 112 ], [ 113 ], [ 114 ] ],
+      "startTime" : "13:30"
+    }, {
+      "endTime" : "14:50",
+      "sessions" : [ [ 115 ] ],
+      "startTime" : "14:30"
+    }, {
+      "endTime" : "15:10",
+      "sessions" : [ [ 116 ] ],
+      "startTime" : "14:50"
+    }, {
+      "endTime" : "15:30",
+      "sessions" : [ [ 117 ] ],
+      "startTime" : "15:10"
+    }, {
+      "endTime" : "16:00",
+      "sessions" : [ [ 118 ] ],
+      "startTime" : "15:30"
+    } ],
+    "tracks" : [ {
+      "title" : "Main Auditorium"
+    }, {
+      "title" : "Lab One"
+    }, {
+      "title" : "Lab Two"
+    } ]
+  } ],
+  "sessions" : {
+    "101" : {
+      "description" : "Get your badge, grab some breakfast, enjoy talking with tech edicts around",
+      "id" : 101,
+      "image" : "/images/backgrounds/registration.jpg",
+      "title" : "Registration, Breakfast & Networking"
     },
-    {
-      "logos": [
-        {
-          "logoUrl": "../images/logos/google.svg",
-          "name": "Google",
-          "url": "https://www.google.com.ua/intl/en/about/"
-        },
-        {
-          "logoUrl": "../images/logos/gdg-x.svg",
-          "name": "GDG[x]",
-          "url": "https://github.com/gdg-x"
-        }
-      ],
-      "title": "General Partner"
-    }
-  ],
-  "schedule": [
-    {
-      "date": "2017-11-25",
-      "dateReadable": "November 25",
-      "timeslots": [
-        {
-          "endTime": "10:00",
-          "sessions": [
-            [
-              101
-            ]
-          ],
-          "startTime": "09:00"
-        },
-        {
-          "endTime": "10:15",
-          "sessions": [
-            [
-              102
-            ]
-          ],
-          "startTime": "10:00"
-        },
-        {
-          "endTime": "10:45",
-          "sessions": [
-            [
-              103
-            ]
-          ],
-          "startTime": "10:15"
-        },
-        {
-          "endTime": "11:00",
-          "sessions": [
-            [
-              104
-            ]
-          ],
-          "startTime": "10:45"
-        },
-        {
-          "endTime": "12:30",
-          "sessions": [
-            [
-              105
-            ],
-            [
-              106
-            ],
-            [
-              107
-            ],
-            [
-              108
-            ]
-          ],
-          "startTime": "11:00"
-        },
-        {
-          "endTime": "13:10",
-          "sessions": [
-            [
-              109
-            ]
-          ],
-          "startTime": "12:30"
-        },
-        {
-          "endTime": "13:30",
-          "sessions": [
-            [
-              110
-            ]
-          ],
-          "startTime": "13:15"
-        },
-        {
-          "endTime": "14:30",
-          "sessions": [
-            [
-              111
-            ],
-            [
-              112
-            ],
-            [
-              113
-            ],
-            [
-              114
-            ]
-          ],
-          "startTime": "13:30"
-        },
-        {
-          "endTime": "14:50",
-          "sessions": [
-            [
-              115
-            ]
-          ],
-          "startTime": "14:30"
-        },
-        {
-          "endTime": "15:10",
-          "sessions": [
-            [
-              116
-            ]
-          ],
-          "startTime": "14:50"
-        },
-        {
-          "endTime": "15:30",
-          "sessions": [
-            [
-              117
-            ]
-          ],
-          "startTime": "15:10"
-        },
-        {
-          "endTime": "16:00",
-          "sessions": [
-            [
-              118
-            ]
-          ],
-          "startTime": "15:30"
-        }
-      ],
-      "tracks": [
-        {
-          "title": "Main Auditorium"
-        },
-        {
-          "title": "Lab One"
-        },
-        {
-          "title": "Lab Two"
-        }
-      ]
-    }
-  ],
-  "sessions": {
-    "101": {
-      "description": "Get your badge, grab some breakfast, enjoy talking with tech edicts around",
-      "id": 101,
-      "image": "/images/backgrounds/registration.jpg",
-      "title": "Registration, Breakfast & Networking"
+    "102" : {
+      "description" : "Welcome and Introductions",
+      "id" : 102,
+      "image" : "/images/backgrounds/opening.jpg",
+      "language" : "English",
+      "title" : "Welcome & Introductions"
     },
-    "102": {
-      "description": "Welcome and Introductions",
-      "id": 102,
-      "image": "/images/backgrounds/opening.jpg",
-      "language": "English",
-      "title": "Welcome & Introductions"
+    "103" : {
+      "description" : "",
+      "id" : 108,
+      "language" : "English",
+      "title" : "Keynote"
     },
-    "103": {
-      "description": "",
-      "id": 108,
-      "language": "English",
-      "title": "Keynote"
+    "104" : {
+      "description" : "Women TechMakers Spotlight",
+      "id" : 104,
+      "language" : "English",
+      "title" : "Women Techmakers' Spotlight"
     },
-    "104": {
-      "description": "Women TechMakers Spotlight",
-      "id": 104,
-      "language": "English",
-      "title": "Women Techmakers' Spotlight"
+    "105" : {
+      "complexity" : "Intermediate",
+      "description" : "Dev 101 - UI",
+      "id" : 105,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 7 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Dev 101 - UI"
     },
-    "105": {
-      "complexity": "Intermediate",
-      "description": "Dev 101 - UI",
-      "title": "Dev 101 - UI",
-      "id": 105,
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        7
-      ],
-      "tags": [
-        "Cloud"
-      ]
+    "106" : {
+      "complexity" : "Intermediate",
+      "description" : "Dev 101 - Databases",
+      "id" : 106,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 7 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Dev 101 - Databases"
     },
-    "106": {
-      "complexity": "Intermediate",
-      "description": "Dev 101 - Databases",
-      "title": "Dev 101 - Databases",
-      "id": 106,
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        7
-      ],
-      "tags": [
-        "Cloud"
-      ]
+    "107" : {
+      "complexity" : "Intermediate",
+      "description" : "Dev 101 - Expert Developer",
+      "id" : 107,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 7 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Dev 101 - Expert Developer"
     },
-    "107": {
-      "complexity": "Intermediate",
-      "description": "Dev 101 - Expert Developer",
-      "title": "Dev 101 - Expert Developer",
-      "id": 107,
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        7
-      ],
-      "tags": [
-        "Cloud"
-      ]
+    "108" : {
+      "complexity" : "Intermediate",
+      "description" : "Dev 101 - Product Manager",
+      "id" : 108,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 7 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Dev 101 - Product Manager"
     },
-    "108": {
-      "complexity": "Intermediate",
-      "description": "Dev 101 - Product Manager",
-      "title": "Dev 101 - Product Manager",
-      "id": 108,
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        7
-      ],
-      "tags": [
-        "Cloud"
-      ]
+    "109" : {
+      "description" : "Foooooooooood!!!",
+      "id" : 109,
+      "image" : "/images/backgrounds/lunch.jpg",
+      "title" : "Lunch"
     },
-    "109": {
-      "description": "Foooooooooood!!!",
-      "id": 109,
-      "image": "/images/backgrounds/lunch.jpg",
-      "title": "Lunch"
+    "110" : {
+      "description" : "Word from sponsors",
+      "id" : 108,
+      "language" : "English",
+      "title" : "Word from sonsors, NIIT"
     },
-    "110": {
-      "description": "Word from sponsors",
-      "id": 108,
-      "language": "English",
-      "title": "Word from sonsors, NIIT"
+    "111" : {
+      "complexity" : "Intermediate",
+      "description" : "Building Smart Apps with AI",
+      "id" : 111,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
+      "speakers" : [ 1 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Building smart apps with  AI"
     },
-    "111": {
-      "complexity": "Intermediate",
-      "description": "Building Smart Apps with AI",
-      "id": 111,
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
-      "speakers": [
-        1
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Building smart apps with  AI"
+    "112" : {
+      "complexity" : "Beginner",
+      "description" : "Going Serverless with Firebase",
+      "id" : 112,
+      "language" : "English",
+      "speakers" : [ 1 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Going serverless with Firebase"
     },
-    "112": {
-      "complexity": "Beginner",
-      "description": "Going Serverless with Firebase",
-      "id": 112,
-      "language": "English",
-      "speakers": [
-        1
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Going serverless with Firebase"
+    "113" : {
+      "complexity" : "Intermediate",
+      "description" : "Progressive Web Apps with Angular",
+      "id" : 113,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
+      "speakers" : [ 2 ],
+      "tags" : [ "Android" ],
+      "title" : "Progressive Web Apps with Angular"
     },
-    "113": {
-      "complexity": "Intermediate",
-      "description": "Progressive Web Apps with Angular",
-      "id": 113,
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
-      "speakers": [
-        2
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Progressive Web Apps with Angular"
+    "114" : {
+      "complexity" : "Beginner",
+      "description" : "Bootstrapping on Google Cloud with 0$",
+      "id" : 114,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 3 ],
+      "tags" : [ "Web" ],
+      "title" : "Bootstrapping on Google Cloud with 0$",
+      "videoId" : "fLfQNp75kbc"
     },
-    "114": {
-      "complexity": "Beginner",
-      "description": "Bootstrapping on Google Cloud with 0$",
-      "id": 114,
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        3
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "Bootstrapping on Google Cloud with 0$",
-      "videoId": "fLfQNp75kbc"
+    "115" : {
+      "complexity" : "Intermediate",
+      "description" : "TBD",
+      "id" : 115,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
+      "speakers" : [ 4 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Loopback, rethinking the dev lifecycle",
+      "videoId" : "e3cuSz1hEPs"
     },
-    "115": {
-      "complexity": "Intermediate",
-      "description": "TBD",
-      "id": 115,
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
-      "speakers": [
-        4
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Loopback, rethinking the dev lifecycle",
-      "videoId": "e3cuSz1hEPs"
+    "116" : {
+      "complexity" : "Beginner",
+      "description" : "TBD",
+      "id" : 116,
+      "language" : "English",
+      "presentation" : "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
+      "speakers" : [ 5 ],
+      "tags" : [ "Android" ],
+      "title" : "Hugo, Netlify and a bag of tricks",
+      "videoId" : "qK7ysoohsaM"
     },
-    "116": {
-      "complexity": "Beginner",
-      "description": "TBD",
-      "id": 116,
-      "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
-      "speakers": [
-        5
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Hugo, Netlify and a bag of tricks",
-      "videoId": "qK7ysoohsaM"
+    "117" : {
+      "complexity" : "Beginner",
+      "description" : "Building World Class Apps with Google",
+      "id" : 117,
+      "language" : "English",
+      "speakers" : [ 6 ],
+      "tags" : [ "Web" ],
+      "title" : "Building World Class Apps with Google"
     },
-    "117": {
-      "complexity": "Beginner",
-      "description": "Building World Class Apps with Google",
-      "id": 117,
-      "language": "English",
-      "speakers": [
-        6
-      ],
-      "tags": [
-        "Web"
-      ],
-      "title": "Building World Class Apps with Google"
+    "118" : {
+      "description" : "Coffeeeeeee!",
+      "id" : 103,
+      "image" : "/images/backgrounds/coffee-break.jpg",
+      "title" : "Coffee break"
     },
-    "118": {
-      "description": "Coffeeeeeee!",
-      "id": 103,
-      "image": "/images/backgrounds/coffee-break.jpg",
-      "title": "Coffee break"
+    "119" : {
+      "complexity" : "Intermediate",
+      "description" : "Dev 101 - Expert Developer",
+      "id" : 119,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 7 ],
+      "tags" : [ "Cloud" ],
+      "title" : "Dev 101 - Expert Developer"
     },
-    "119": {
-      "complexity": "Intermediate",
-      "description": "Dev 101 - Expert Developer",
-      "id": 119,
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        7
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Dev 101 - Expert Developer"
+    "120" : {
+      "complexity" : "Intermediate",
+      "description" : "Dev 101 - Product Manager",
+      "id" : 120,
+      "language" : "English",
+      "presentation" : "",
+      "speakers" : [ 8 ],
+      "tags" : [ "Android" ],
+      "title" : "Dev 101 - Product Manager"
     },
-    "120": {
-      "complexity": "Intermediate",
-      "description": "Dev 101 - Product Manager",
-      "id": 120,
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        8
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Dev 101 - Product Manager"
-    },
-    "121": {
-      "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
-      "id": 121,
-      "image": "/images/backgrounds/closing.jpg",
-      "title": "Conference closing and contest winners announcements"
+    "121" : {
+      "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+      "id" : 121,
+      "image" : "/images/backgrounds/closing.jpg",
+      "title" : "Conference closing and contest winners announcements"
     }
   },
-  "speakers": [
-    null,
-    {
-      "bio" : "My name is Rexford Nkansah, a Senior Web Developer. I build and deploy cross-browser, cross-platform, mobile and web applications using primarily HTML, CSS, Javascript, and Python",
-      "company" : "Freelance",
-      "companyLogo" : "",
-      "country" : "Accra, Ghana",
-      "featured" : true,
-      "id" : 1,
-      "name" : "REXFORD NKANSAH",
-      "photoUrl" : "/images/people/rexford_ghana.png",
-      "shortBio" : "My name is Rexford Nkansah, a Senior Web Developer. I build and deploy cross-browser, cross-platform,....",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : " https://google.com/+Nkansahrexford",
-        "name" : "Google+"
-      } ],
-      "tags" : [ "Mobile", "Web" ],
-      "title" : "Snr Web Developer"
+  "speakers" : [ null, {
+    "bio" : "My name is Rexford Nkansah, a Senior Web Developer. I build and deploy cross-browser, cross-platform, mobile and web applications using primarily HTML, CSS, Javascript, and Python",
+    "company" : "Freelance",
+    "companyLogo" : "",
+    "country" : "Accra, Ghana",
+    "featured" : true,
+    "id" : 1,
+    "name" : "REXFORD NKANSAH",
+    "photoUrl" : "/images/people/rexford_ghana.png",
+    "shortBio" : "My name is Rexford Nkansah, a Senior Web Developer. I build and deploy cross-browser, cross-platform,....",
+    "socials" : [ {
+      "icon" : "gplus",
+      "link" : " https://google.com/+Nkansahrexford",
+      "name" : "Google+"
     } ],
-      "bio" : "Oliver is a student at Ashesi University. Aside from his undergraduate studies, he co-leads Facebook Developer Circles and GDG Ashesi.
-  Started contributing to open source since October 2017,  through the Hacktoberfest program.",
-      "company" : "",
-      "companyLogo" : "",
-      "country" : "Accra, Ghana",
-      "featured" : true,
-      "id" : 2,
-      "name" : "Oliver Mensah",
-      "photoUrl" : "/images/people/oliver_ghana.png",
-      "shortBio" : "Oliver is a student at Ashesi University. Aside from his undergraduate studies, he co-leads Facebook Developer Circles and GDG Ashesi. ",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/Oliver_Mensah",
-        "name" : "Twitter"
-      } ],
-      "tags" : [ "Web", "Firebase" ],
-      "title" : "Developer, GDG Lead"
+    "tags" : [ "Mobile", "Web" ],
+    "title" : "Snr Web Developer"
+  }, {
+    "bio" : "Oliver is a student at Ashesi University. Aside from his undergraduate studies, he co-leads Facebook Developer Circles and GDG Ashesi. Started contributing to open source since October 2017,  through the Hacktoberfest program.",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Accra, Ghana",
+    "featured" : true,
+    "id" : 2,
+    "name" : "Oliver Mensah",
+    "photoUrl" : "/images/people/oliver_ghana.png",
+    "shortBio" : "Oliver is a student at Ashesi University. Aside from his undergraduate studies, he co-leads Facebook Developer Circles and GDG Ashesi. ",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/Oliver_Mensah",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Web", "Firebase" ],
+    "title" : "Developer, GDG Lead"
+  }, {
+    "bio" : "Lady-Omega Hammond is CEO of Ampersand Technologies Ltd, a software development company that is revolutionizing how businesses and individuals become efficient using technology with products like Car Care, a mobile application designed for car owners to purchase insurance policies, renew road worthy certifications and get access to one demand services. After completion of University with a 1st degree in Geomatic Engineering, she followed her passion in technology with training from Meltwater Entrepreneurial School of Technology where she learned how to code and develop her communication and business skills to build world class software company. On top of building a software company of her own, Lady-Omega is cofounder of STEMbees, an NGO that has introduced over 1500 young girls to STEM, empowering and mentoring them to explore their passions from a young age and also an active member of the YWCA of Ghana, nurturing young African girls to be the best they can be.",
+    "company" : "Ampersand Technologies Ltd",
+    "companyLogo" : "",
+    "country" : "Accra, Ghana",
+    "featured" : true,
+    "id" : 3,
+    "name" : "Lady-Omega Hammond",
+    "photoUrl" : "/images/people/lady_o_ghana.png",
+    "shortBio" : "Lady-Omega Hammond is CEO of Ampersand Technologies Ltd, a software development company that is revolutionizing how businesses and individuals....",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/Loanah",
+      "name" : "Twitter"
+    } ],
+    "tags" : [ "Web", "STEM" ],
+    "title" : "CEO of Ampersand Technologies Ltd"
+  }, {
+    "bio" : "Everlyne Kaberere is a currently an Entrepreneur In Training(EIT) at MEST Africa, Accra. She has been a Google WTM for GDG Kimathi University and an organizer of Google and Intel events in Kenya. When she is not on her laptop coding and researching, you will find her reading and writing non-fictional stories and novels, watching animations and hanging out with friends. She is super excited about this DevFest, as it is the first away from home!!!!",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Nairobi, Kenya",
+    "featured" : true,
+    "id" : 4,
+    "name" : "Everlyne Kaberere",
+    "photoUrl" : "/images/people/reverlyne_ghana.png",
+    "shortBio" : "Everlyne Kaberere is a currently an Entrepreneur In Training(EIT) at MEST Africa, Accra....",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/kaberereeve",
+      "name" : "twitter"
     }, {
-      "bio" : "Lady-Omega Hammond is CEO of Ampersand Technologies Ltd, a software development company that is revolutionizing how businesses and individuals become efficient using technology with products like Car Care, a mobile application designed for car owners to purchase insurance policies, renew road worthy certifications and get access to one demand services. After completion of University with a 1st degree in Geomatic Engineering, she followed her passion in technology with training from Meltwater Entrepreneurial School of Technology where she learned how to code and develop her communication and business skills to build world class software company. On top of building a software company of her own, Lady-Omega is cofounder of STEMbees, an NGO that has introduced over 1500 young girls to STEM, empowering and mentoring them to explore their passions from a young age and also an active member of the YWCA of Ghana, nurturing young African girls to be the best they can be.",
-      "company" : "Ampersand Technologies Ltd",
-      "companyLogo" : "",
-      "country" : "Accra, Ghana",
-      "featured" : true,
-      "id" : 3,
-      "name" : "Lady-Omega Hammond",
-      "photoUrl" : "/images/people/lady_o_ghana.png",
-      "shortBio" : "Lady-Omega Hammond is CEO of Ampersand Technologies Ltd, a software development company that is revolutionizing how businesses and individuals....",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/Loanah",
-        "name" : "Twitter"
-      }],
-      "tags" : [ "Web", "STEM" ],
-      "title" : "CEO of Ampersand Technologies Ltd"
-    }, {
-      "bio" : "Everlyne Kaberere is a currently an Entrepreneur In Training(EIT) at MEST Africa, Accra. She has been a Google WTM for GDG Kimathi University and an organizer of Google and Intel events in Kenya.
-  When she is not on her laptop coding and researching, you will find her reading and writing non-fictional stories and novels, watching animations and hanging out with friends.
-  She is super excited about this DevFest, as it is the first away from home!!!!",
-      "company" : "",
-      "companyLogo" : "",
-      "country" : "Nairobi, Kenya",
-      "featured" : true,
-      "id" : 4,
-      "name" : "Everlyne Kaberere",
-      "photoUrl" : "/images/people/reverlyne_ghana.png",
-      "shortBio" : "Everlyne Kaberere is a currently an Entrepreneur In Training(EIT) at MEST Africa, Accra....",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/kaberereeve",
-        "name" : "twitter"
-      },{
-        "icon" : "linkedin",
-        "link" : "https://ke.linkedin.com/in/everlyne-njeri-kaberere",
-        "name" : "linkedin"
-        } ],
-      "tags" : [ "EIT", "WIT" ],
-      "title" : "Developer"
-    }, {
-      "bio" : " Nigerian Software Engineer. Co-Organiser at GDG Legon. Co-Organiser at forloop Ghana. Technical Writer at https://scotch.io .Tutor at https://www.devlogic.co ",
-      "company" : "",
-      "companyLogo" : "",
-      "country" : "Nigeria",
-      "featured" : true,
-      "id" : 5,
-      "name" : "Oreoluwa Ogundipe",
-      "photoUrl" : "/images/people/ore_ghana.png",
-      "shortBio" : "Nigerian Software Engineer. Co-Organiser at GDG Legon. Co-Organiser at forloop Ghana. Technical Writer at https://scotch.io .Tutor at https://www.devlogic.co",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/oreeog",
-        "name" : "twitter"
-      } ],
-      "tags" : [ "web","rsponsive","google" ],
-      "title" : "Software Engineer"
-    }],
+      "icon" : "linkedin",
+      "link" : "https://ke.linkedin.com/in/everlyne-njeri-kaberere",
+      "name" : "linkedin"
+    } ],
+    "tags" : [ "EIT", "WIT" ],
+    "title" : "Developer"
+  }, {
+    "bio" : " Nigerian Software Engineer. Co-Organiser at GDG Legon. Co-Organiser at forloop Ghana. Technical Writer at https://scotch.io .Tutor at https://www.devlogic.co ",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Nigeria",
+    "featured" : true,
+    "id" : 5,
+    "name" : "Oreoluwa Ogundipe",
+    "photoUrl" : "/images/people/ore_ghana.png",
+    "shortBio" : "Nigerian Software Engineer. Co-Organiser at GDG Legon. Co-Organiser at forloop Ghana. Technical Writer at https://scotch.io .Tutor at https://www.devlogic.co",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/oreeog",
+      "name" : "twitter"
+    } ],
+    "tags" : [ "web", "rsponsive", "google" ],
+    "title" : "Software Engineer"
+  } ],
   "videos" : [ {
     "speakers" : "Eugene Wurah",
     "thumbnail" : "/images/gdg-logo.svg",
