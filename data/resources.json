@@ -33,7 +33,7 @@
   "locationAddress": "NIIT, Ring Road, Accra",
   "organizerTitle": "Organizer",
   "aboutOrganizers": "<a href='http://gdghana.com' target='_blank'>GDG Ghana</a> with support of 3 GDGs from all around Ghana is proud organizer of DevFest Ghana",
-  "openTeamPage": "Open team page",
+  "openTeamPage": "",
   "whatIsGdg": "What is GDG?",
   "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
   "readMore": "Read more",
@@ -115,11 +115,11 @@
       "caption": "Day"
     },
     {
-      "counter": 6,
+      "counter": 13,
       "caption": "Sessions"
     },
     {
-      "counter": 3,
+      "counter": 6,
       "caption": "Tracks"
     }
   ],
