@@ -22,6 +22,11 @@
           "logoUrl": "../images/logos/gdg-x.svg",
           "name": "GDG[x]",
           "url": "https://github.com/gdg-x"
+        },
+        {
+          "logoUrl": "../images/logos/niit_partner.svg",
+          "name": "NIIT Accra",
+          "url": "https://www.niitghana.com"
         }
       ],
       "title": "General Partner"
@@ -157,6 +162,15 @@
             ]
           ],
           "startTime": "15:30"
+        },
+        {
+          "endTime": "17:00",
+          "sessions": [
+            [
+              119
+            ]
+          ],
+          "startTime": "16:00"
         }
       ],
       "tracks": [
@@ -187,8 +201,8 @@
       "title": "Welcome & Introductions"
     },
     "103": {
-      "description": "",
-      "id": 108,
+      "description": "Keynote Speaker Wows Audience",
+      "id": 103,
       "language": "English",
       "title": "Keynote"
     },
@@ -206,10 +220,10 @@
       "language": "English",
       "presentation": "",
       "speakers": [
-        7
+        13
       ],
       "tags": [
-        "Cloud"
+        "UI"
       ]
     },
     "106": {
@@ -220,16 +234,16 @@
       "language": "English",
       "presentation": "",
       "speakers": [
-        7
+        9
       ],
       "tags": [
-        "Cloud"
+        "databases"
       ]
     },
     "107": {
       "complexity": "Intermediate",
-      "description": "Dev 101 - Expert Developer",
-      "title": "Dev 101 - Expert Developer",
+      "description": "Dev 101 - Coding 101",
+      "title": "Dev 101 - Coding 101",
       "id": 107,
       "language": "English",
       "presentation": "",
@@ -237,21 +251,21 @@
         7
       ],
       "tags": [
-        "Cloud"
+        "web","programmer","code"
       ]
     },
     "108": {
       "complexity": "Intermediate",
-      "description": "Dev 101 - Product Manager",
-      "title": "Dev 101 - Product Manager",
+      "description": "Dev 101 - Career Progression",
+      "title": "Dev 101 - Career Progression",
       "id": 108,
       "language": "English",
       "presentation": "",
       "speakers": [
-        7
+        8
       ],
       "tags": [
-        "Cloud"
+        "career","progression"
       ]
     },
     "109": {
@@ -262,21 +276,21 @@
     },
     "110": {
       "description": "Word from sponsors",
-      "id": 108,
+      "id": 110,
       "language": "English",
-      "title": "Word from sonsors, NIIT"
+      "title": "Word from sponsors, NIIT"
     },
     "111": {
       "complexity": "Intermediate",
       "description": "Building Smart Apps with AI",
       "id": 111,
       "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
+      "presentation": "",
       "speakers": [
-        1
+        6
       ],
       "tags": [
-        "Cloud"
+        "ML","web","AI"
       ],
       "title": "Building smart apps with  AI"
     },
@@ -286,10 +300,10 @@
       "id": 112,
       "language": "English",
       "speakers": [
-        1
+        2
       ],
       "tags": [
-        "Cloud"
+        "Cloud","firebase","web"
       ],
       "title": "Going serverless with Firebase"
     },
@@ -298,12 +312,12 @@
       "description": "Progressive Web Apps with Angular",
       "id": 113,
       "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
+      "presentation": "",
       "speakers": [
-        2
+        1
       ],
       "tags": [
-        "Android"
+        "Angular","web","pwa"
       ],
       "title": "Progressive Web Apps with Angular"
     },
@@ -314,43 +328,41 @@
       "language": "English",
       "presentation": "",
       "speakers": [
-        3
+        12
       ],
       "tags": [
-        "Web"
+        "Web","cloud","gcp","firebase"
       ],
       "title": "Bootstrapping on Google Cloud with 0$",
       "videoId": "fLfQNp75kbc"
     },
     "115": {
       "complexity": "Intermediate",
-      "description": "TBD",
+      "description": "Loopback, rethinking the dev lifecycle",
       "id": 115,
       "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
+      "presentation": "",
       "speakers": [
-        4
+        11
       ],
       "tags": [
-        "Cloud"
+        "DevOps"
       ],
-      "title": "Loopback, rethinking the dev lifecycle",
-      "videoId": "e3cuSz1hEPs"
+      "title": "Loopback, rethinking the dev lifecycle"
     },
     "116": {
       "complexity": "Beginner",
-      "description": "TBD",
+      "description": "Internet of Things And how African Developers must spearhead the revolution in Africa",
       "id": 116,
       "language": "English",
-      "presentation": "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
+      "presentation": "",
       "speakers": [
-        5
+        10
       ],
       "tags": [
-        "Android"
+        "IoT"
       ],
-      "title": "Hugo, Netlify and a bag of tricks",
-      "videoId": "qK7ysoohsaM"
+      "title": "Internet of Things And how African Developers must spearhead the revolution in Africa"
     },
     "117": {
       "complexity": "Beginner",
@@ -358,7 +370,7 @@
       "id": 117,
       "language": "English",
       "speakers": [
-        6
+        5
       ],
       "tags": [
         "Web"
@@ -367,41 +379,13 @@
     },
     "118": {
       "description": "Coffeeeeeee!",
-      "id": 103,
+      "id": 118,
       "image": "/images/backgrounds/coffee-break.jpg",
       "title": "Coffee break"
     },
     "119": {
-      "complexity": "Intermediate",
-      "description": "Dev 101 - Expert Developer",
-      "id": 119,
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        7
-      ],
-      "tags": [
-        "Cloud"
-      ],
-      "title": "Dev 101 - Expert Developer"
-    },
-    "120": {
-      "complexity": "Intermediate",
-      "description": "Dev 101 - Product Manager",
-      "id": 120,
-      "language": "English",
-      "presentation": "",
-      "speakers": [
-        8
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Dev 101 - Product Manager"
-    },
-    "121": {
       "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
-      "id": 121,
+      "id": 119,
       "image": "/images/backgrounds/closing.jpg",
       "title": "Conference closing and contest winners announcements"
     }
@@ -470,7 +454,7 @@
       "featured" : true,
       "id" : 4,
       "name" : "Everlyne Kaberere",
-      "photoUrl" : "/images/people/reverlyne_ghana.png",
+      "photoUrl" : "/images/people/everlyne_ghana.png",
       "shortBio" : "Everlyne Kaberere is a currently an Entrepreneur In Training(EIT) at MEST Africa, Accra....",
       "socials" : [ {
         "icon" : "twitter",
@@ -500,6 +484,159 @@
       } ],
       "tags" : [ "web","rsponsive","google" ],
       "title" : "Software Engineer"
+    } ,{
+      "bio" : "  ",
+      "company" : "",
+      "companyLogo" : "",
+      "country" : "",
+      "featured" : true,
+      "id" : 6,
+      "name" : "Femi Taiwo",
+      "photoUrl" : "",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "twitter"
+      } ],
+      "tags" : [ "" ],
+      "title" : ""
+    },{
+      "bio" : "  ",
+      "company" : "",
+      "companyLogo" : "",
+      "country" : "",
+      "featured" : true,
+      "id" : 7,
+      "name" : "Alfred Rowe",
+      "photoUrl" : "",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "twitter"
+      } ],
+      "tags" : [ "" ],
+      "title" : ""
+    },{
+      "bio" : "  ",
+      "company" : "",
+      "companyLogo" : "",
+      "country" : "",
+      "featured" : true,
+      "id" : 8,
+      "name" : "Yaw Amoateng",
+      "photoUrl" : "",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "twitter"
+      } ],
+      "tags" : [ "" ],
+      "title" : ""
+    },{
+      "bio" : "  ",
+      "company" : "",
+      "companyLogo" : "",
+      "country" : "",
+      "featured" : true,
+      "id" : 9,
+      "name" : "Eyram Seshie",
+      "photoUrl" : "",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "twitter"
+      } ],
+      "tags" : [ "" ],
+      "title" : ""
+    },{
+      "bio" : "  ",
+      "company" : "",
+      "companyLogo" : "",
+      "country" : "",
+      "featured" : true,
+      "id" : 10,
+      "name" : "Emmanuel Cofie",
+      "photoUrl" : "",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "twitter"
+      } ],
+      "tags" : [ "" ],
+      "title" : ""
+    },{
+      "bio" : "  ",
+      "company" : "",
+      "companyLogo" : "",
+      "country" : "",
+      "featured" : true,
+      "id" : 11,
+      "name" : "Nathan Fletcher",
+      "photoUrl" : "",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "twitter"
+      } ],
+      "tags" : [ "" ],
+      "title" : ""
+    },{
+      "bio" : "  ",
+      "company" : "",
+      "companyLogo" : "",
+      "country" : "",
+      "featured" : true,
+      "id" : 12,
+      "name" : "Jeffrey Godwyll",
+      "photoUrl" : "",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "twitter"
+      } ],
+      "tags" : [ "" ],
+      "title" : ""
+    },{
+      "bio" : "  ",
+      "company" : "",
+      "companyLogo" : "",
+      "country" : "",
+      "featured" : true,
+      "id" : 13,
+      "name" : "from hubtel",
+      "photoUrl" : "",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "twitter"
+      } ],
+      "tags" : [ "" ],
+      "title" : ""
+    },{
+      "bio" : "  ",
+      "company" : "",
+      "companyLogo" : "",
+      "country" : "",
+      "featured" : true,
+      "id" : 14,
+      "name" : "Estelle",
+      "photoUrl" : "",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "",
+        "name" : "twitter"
+      } ],
+      "tags" : [ "" ],
+      "title" : ""
     }],
   "videos" : [ {
     "speakers" : "Eugene Wurah",
