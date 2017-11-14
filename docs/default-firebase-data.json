@@ -536,125 +536,98 @@
     }
   },
   "speakers" : [ null, {
-    "bio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
-    "company" : "Google",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "London, United Kingdom",
+    "bio" : "My name is Rexford Nkansah, a Senior Web Developer. I build and deploy cross-browser, cross-platform, mobile and web applications using primarily HTML, CSS, Javascript, and Python",
+    "company" : "Freelance",
+    "companyLogo" : "",
+    "country" : "Accra, Ghana",
     "featured" : true,
     "id" : 1,
-    "name" : "Mete Atamel",
-    "photoUrl" : "/images/people/mete_atamel.jpg",
-    "shortBio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
+    "name" : "REXFORD NKANSAH",
+    "photoUrl" : "/images/people/rexford_ghana.png",
+    "shortBio" : "My name is Rexford Nkansah, a Senior Web Developer. I build and deploy cross-browser, cross-platform,....",
     "socials" : [ {
-      "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/meteatamel/",
-      "name" : "LinkedIn"
-    }, {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/meteatamel/",
-      "name" : "Twitter"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/meteatamel/",
-      "name" : "GitHub"
+      "icon" : "gplus",
+      "link" : " https://google.com/+Nkansahrexford",
+      "name" : "Google+"
     } ],
-    "tags" : [ "Cloud", "Compute Engine", "gRPC" ],
-    "title" : "Developer Advocate"
-  }, {
-    "badges" : [ {
-      "description" : "Android Google Developer Expert",
-      "link" : "https://developers.google.com/experts/people/yonatan-levin.html",
-      "name" : "GDE"
-    } ],
-    "bio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
-    "company" : "Gett",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "Tel Aviv, Israel",
+    "tags" : [ "Mobile", "Web" ],
+    "title" : "Snr Web Developer"
+  } ],
+    "bio" : "Oliver is a student at Ashesi University. Aside from his undergraduate studies, he co-leads Facebook Developer Circles and GDG Ashesi.
+Started contributing to open source since October 2017,  through the Hacktoberfest program.",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Accra, Ghana",
     "featured" : true,
     "id" : 2,
-    "name" : "Yonatan Levin",
-    "photoUrl" : "/images/people/yonatan_levin.jpg",
-    "shortBio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
+    "name" : "Oliver Mensah",
+    "photoUrl" : "/images/people/oliver_ghana.png",
+    "shortBio" : "Oliver is a student at Ashesi University. Aside from his undergraduate studies, he co-leads Facebook Developer Circles and GDG Ashesi. ",
     "socials" : [ {
-      "icon" : "facebook",
-      "link" : "https://www.facebook.com/levin.yonatan",
-      "name" : "Facebook"
-    }, {
       "icon" : "twitter",
-      "link" : "https://twitter.com/parahall",
+      "link" : "https://twitter.com/Oliver_Mensah",
       "name" : "Twitter"
-    }, {
-      "icon" : "gplus",
-      "link" : "https://plus.google.com/+YonatanLevin",
-      "name" : "Google+"
     } ],
-    "tags" : [ "Android", "Doze", "Mobile UX", "Entrepreneurship" ],
-    "title" : "Android Evangelist & Developer"
+    "tags" : [ "Web", "Firebase" ],
+    "title" : "Developer, GDG Lead"
   }, {
-    "bio" : "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG – Connected Home, he likes discovering the world together with his kids in an odd way.",
-    "company" : "Duetsche Telekom AG - Group Innovation+",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "Munich and Dusseldorf, Germany",
+    "bio" : "Lady-Omega Hammond is CEO of Ampersand Technologies Ltd, a software development company that is revolutionizing how businesses and individuals become efficient using technology with products like Car Care, a mobile application designed for car owners to purchase insurance policies, renew road worthy certifications and get access to one demand services. After completion of University with a 1st degree in Geomatic Engineering, she followed her passion in technology with training from Meltwater Entrepreneurial School of Technology where she learned how to code and develop her communication and business skills to build world class software company. On top of building a software company of her own, Lady-Omega is cofounder of STEMbees, an NGO that has introduced over 1500 young girls to STEM, empowering and mentoring them to explore their passions from a young age and also an active member of the YWCA of Ghana, nurturing young African girls to be the best they can be.",
+    "company" : "Ampersand Technologies Ltd",
+    "companyLogo" : "",
+    "country" : "Accra, Ghana",
     "featured" : true,
     "id" : 3,
-    "name" : "Sascha Wolter",
-    "photoUrl" : "/images/people/sascha_wolter.jpg",
-    "shortBio" : "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
+    "name" : "Lady-Omega Hammond",
+    "photoUrl" : "/images/people/lady_o_ghana.png",
+    "shortBio" : "Lady-Omega Hammond is CEO of Ampersand Technologies Ltd, a software development company that is revolutionizing how businesses and individuals....",
     "socials" : [ {
-      "icon" : "website",
-      "link" : "http://www.wolter.biz",
-      "name" : "Website"
-    }, {
       "icon" : "twitter",
-      "link" : "http://twitter.com/saschawolter",
+      "link" : "https://twitter.com/Loanah",
       "name" : "Twitter"
-    }, {
-      "icon" : "linkedin",
-      "link" : "http://www.linkedin.com/pub/sascha-wolter/5/a38/493",
-      "name" : "LinkedIn"
-    } ],
-    "tags" : [ "Web", "IoT", "Smart Home" ],
-    "title" : "Senior Developer Evangelist Connected Home"
+    }],
+    "tags" : [ "Web", "STEM" ],
+    "title" : "CEO of Ampersand Technologies Ltd"
   }, {
-    "bio" : "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of performance optimizations.",
-    "company" : "Google",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "Mountain View, United States",
+    "bio" : "Everlyne Kaberere is a currently an Entrepreneur In Training(EIT) at MEST Africa, Accra. She has been a Google WTM for GDG Kimathi University and an organizer of Google and Intel events in Kenya.
+When she is not on her laptop coding and researching, you will find her reading and writing non-fictional stories and novels, watching animations and hanging out with friends.
+She is super excited about this DevFest, as it is the first away from home!!!!",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Nairobi, Kenya",
     "featured" : true,
     "id" : 4,
-    "name" : "Rustem Arzymbetov",
-    "photoUrl" : "/images/people/rustem_arzymbetov.jpg",
-    "shortBio" : "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of perform...",
+    "name" : "Everlyne Kaberere",
+    "photoUrl" : "/images/people/reverlyne_ghana.png",
+    "shortBio" : "Everlyne Kaberere is a currently an Entrepreneur In Training(EIT) at MEST Africa, Accra....",
     "socials" : [ {
-      "icon" : "gplus",
-      "link" : "https://plus.google.com/102117493667558776856",
-      "name" : "Google+"
-    } ],
-    "tags" : [ "Cloud", "Performance", "TensorFlow" ],
-    "title" : "Software Engineer"
+      "icon" : "twitter",
+      "link" : "https://twitter.com/kaberereeve",
+      "name" : "twitter"
+    },{
+      "icon" : "linkedin",
+      "link" : "https://ke.linkedin.com/in/everlyne-njeri-kaberere",
+      "name" : "linkedin"
+      } ],
+    "tags" : [ "EIT", "WIT" ],
+    "title" : "Developer"
   }, {
-    "bio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-    "company" : "Sygic",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "Opole, Poland",
+    "bio" : " Nigerian Software Engineer. Co-Organiser at GDG Legon. Co-Organiser at forloop Ghana. Technical Writer at https://scotch.io .Tutor at https://www.devlogic.co ",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "Nigeria",
     "featured" : true,
     "id" : 5,
-    "name" : "Adrian Kajda",
-    "photoUrl" : "/images/people/adrian_kajda.jpg",
-    "shortBio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+    "name" : "Oreoluwa Ogundipe",
+    "photoUrl" : "/images/people/ore_ghana.png",
+    "shortBio" : "Nigerian Software Engineer. Co-Organiser at GDG Legon. Co-Organiser at forloop Ghana. Technical Writer at https://scotch.io .Tutor at https://www.devlogic.co",
     "socials" : [ {
-      "icon" : "gplus",
-      "link" : "plus.google.com/+AdrianKajda",
-      "name" : "Google+"
+      "icon" : "twitter",
+      "link" : "https://twitter.com/oreeog",
+      "name" : "twitter"
     } ],
-    "tags" : [ "Android", "Entrepreneurship" ],
-    "title" : "Product Manager/Developer"
-  }, {
-    "badges" : [ {
-      "description" : "Angular Google Developer Expert",
-      "link" : "https://developers.google.com/experts/people/gerard-sans.html",
-      "name" : "GDE"
-    } ],
+    "tags" : [ "web","rsponsive","google" ],
+    "title" : "Software Engineer"
+  }],
     "bio" : "Angular Google Developer Expert. I am a Computer Science Engineer specialised in Web. International speaker and trainer. I am an Angular fanboy and a community activist fighting for the JavaScript revolution. I have lived and worked for all sorts of companies in Germany, Brazil, UK and Spain. I am always up for a good challenge. I enjoy running AngularLabs London, mentoring students, participating in the community, giving talks and writing technical articles at Medium.",
     "company" : "AngularZone",
     "companyLogo" : "/images/logos/gdg-lviv.svg",
