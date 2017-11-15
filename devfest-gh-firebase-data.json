@@ -409,9 +409,8 @@
       } ],
       "tags" : [ "Mobile", "Web" ],
       "title" : "Snr Web Developer"
-    } ],
-      "bio" : "Oliver is a student at Ashesi University. Aside from his undergraduate studies, he co-leads Facebook Developer Circles and GDG Ashesi.
-  Started contributing to open source since October 2017,  through the Hacktoberfest program.",
+    }, {
+      "bio" : "Oliver is a student at Ashesi University. Aside from his undergraduate studies, he co-leads Facebook Developer Circles and GDG Ashesi. Started contributing to open source since October 2017,  through the Hacktoberfest program.",
       "company" : "",
       "companyLogo" : "",
       "country" : "Accra, Ghana",
@@ -427,7 +426,7 @@
       } ],
       "tags" : [ "Web", "Firebase" ],
       "title" : "Developer, GDG Lead"
-    }, {
+      }, {
       "bio" : "Lady-Omega Hammond is CEO of Ampersand Technologies Ltd, a software development company that is revolutionizing how businesses and individuals become efficient using technology with products like Car Care, a mobile application designed for car owners to purchase insurance policies, renew road worthy certifications and get access to one demand services. After completion of University with a 1st degree in Geomatic Engineering, she followed her passion in technology with training from Meltwater Entrepreneurial School of Technology where she learned how to code and develop her communication and business skills to build world class software company. On top of building a software company of her own, Lady-Omega is cofounder of STEMbees, an NGO that has introduced over 1500 young girls to STEM, empowering and mentoring them to explore their passions from a young age and also an active member of the YWCA of Ghana, nurturing young African girls to be the best they can be.",
       "company" : "Ampersand Technologies Ltd",
       "companyLogo" : "",
@@ -445,9 +444,7 @@
       "tags" : [ "Web", "STEM" ],
       "title" : "CEO of Ampersand Technologies Ltd"
     }, {
-      "bio" : "Everlyne Kaberere is a currently an Entrepreneur In Training(EIT) at MEST Africa, Accra. She has been a Google WTM for GDG Kimathi University and an organizer of Google and Intel events in Kenya.
-  When she is not on her laptop coding and researching, you will find her reading and writing non-fictional stories and novels, watching animations and hanging out with friends.
-  She is super excited about this DevFest, as it is the first away from home!!!!",
+      "bio" : "Everlyne Kaberere is a currently an Entrepreneur In Training(EIT) at MEST Africa, Accra. She has been a Google WTM for GDG Kimathi University and an organizer of Google and Intel events in Kenya. When she is not on her laptop coding and researching, you will find her reading and writing non-fictional stories and novels, watching animations and hanging out with friends. She is super excited about this DevFest, as it is the first away from home!!!!",
       "company" : "",
       "companyLogo" : "",
       "country" : "Nairobi, Kenya",
@@ -587,22 +584,30 @@
       "tags" : [ "" ],
       "title" : ""
     },{
-      "bio" : "  ",
-      "company" : "",
-      "companyLogo" : "",
-      "country" : "",
+      "bio" : "Jeff is always on the lookout for the next Google Technology to play around with. Jeff leads the team in terms of technology at Wineloya Digital as CTO & act as Outreach Lead @ GDG Ghana. In the past he's been a Consultant Senior Applications Engineer @ MTN & Starbow Airlines(Adaptive Computer Solutions), Software Engineer @ Vodafone on the demand and delivery team, Computer Engineer @ the University of Ghana's Remote Sensing & Geographic Information Systems Labs, among a few other roles",
+      "company" : "Wineloya Digital",
+      "companyLogo" : "/images/logos/wineloya.png",
+      "country" : "Ghana",
       "featured" : true,
       "id" : 12,
       "name" : "Jeffrey Godwyll",
-      "photoUrl" : "",
-      "shortBio" : "",
+      "photoUrl" : "/images/people/jeff_ghana.png",
+      "shortBio" : "Jeff is super passionate about all things Google Cloud and is always on the lookout for the next Google tech to play around with",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "",
+        "link" : "https://twitter.com/rey12rey",
         "name" : "twitter"
-      } ],
-      "tags" : [ "" ],
-      "title" : ""
+      }, {
+        "icon": "linkedin",
+        "link": "https://instagram.com/jeffgodwyll",
+        "name": "linkedin"
+      }, {
+        "icon" : "gplus",
+        "link" : " https://google.com/+JeffreyGodwyll",
+        "name" : "Google+"
+      }],
+      "tags" : [ "GCP", "Cloud", "App Engine", "GKE" ],
+      "title" : "CTO"
     },{
       "bio" : "  ",
       "company" : "",
