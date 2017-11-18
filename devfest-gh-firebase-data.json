@@ -407,7 +407,7 @@
         "link" : " https://google.com/+Nkansahrexford",
         "name" : "Google+"
       } ],
-      "tags" : [ "Mobile", "Web" ],
+      "tags" : [ "Angular", "Web" ],
       "title" : "Snr Web Developer"
     }, {
       "bio" : "Oliver is a student at Ashesi University. Aside from his undergraduate studies, he co-leads Facebook Developer Circles and GDG Ashesi. Started contributing to open source since October 2017,  through the Hacktoberfest program.",
@@ -530,7 +530,7 @@
         "link" : "",
         "name" : "twitter"
       } ],
-      "tags" : [ "" ],
+      "tags" : [ "career" ],
       "title" : ""
     },{
       "bio" : " Data Analyst, SQL and Python Enthusiast and aspiring Data Scientist.
@@ -582,7 +582,7 @@ Currently working at Vodafone as CRM Administration Analyst.  ",
         "link" : "",
         "name" : "twitter"
       } ],
-      "tags" : [ "" ],
+      "tags" : [ "devops" ],
       "title" : ""
     },{
       "bio" : "Jeff is always on the lookout for the next Google Technology to play around with. Jeff leads the team in terms of technology at Wineloya Digital as CTO & act as Outreach Lead @ GDG Ghana. In the past he's been a Consultant Senior Applications Engineer @ MTN & Starbow Airlines(Adaptive Computer Solutions), Software Engineer @ Vodafone on the demand and delivery team, Computer Engineer @ the University of Ghana's Remote Sensing & Geographic Information Systems Labs, among a few other roles",
