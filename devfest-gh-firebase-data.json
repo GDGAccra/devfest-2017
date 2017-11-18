@@ -533,39 +533,40 @@
       "tags" : [ "" ],
       "title" : ""
     },{
-      "bio" : "  ",
+      "bio" : " Data Analyst, SQL and Python Enthusiast and aspiring Data Scientist.
+Currently working at Vodafone as CRM Administration Analyst.  ",
       "company" : "",
       "companyLogo" : "",
-      "country" : "",
+      "country" : "Accra, Ghana",
       "featured" : true,
       "id" : 9,
       "name" : "Eyram Seshie",
       "photoUrl" : "",
-      "shortBio" : "",
+      "shortBio" : "Data Analyst, SQL and Python Enthusiast and aspiring Data Scientist. ",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "",
+        "link" : "#",
         "name" : "twitter"
       } ],
-      "tags" : [ "" ],
-      "title" : ""
+      "tags" : [ "db","python" ],
+      "title" : "Data Analyst"
     },{
-      "bio" : "  ",
-      "company" : "",
+      "bio" : "  Software Engineer From Ghana.  CTO at Zished. Passionate about building applications for mobile and web. Loves coding and developing algorithms. ",
+      "company" : "Zished",
       "companyLogo" : "",
-      "country" : "",
+      "country" : "Accra,Ghnaa",
       "featured" : true,
       "id" : 10,
       "name" : "Emmanuel Cofie",
       "photoUrl" : "",
-      "shortBio" : "",
+      "shortBio" : "Software Engineer From Ghana.  CTO at Zished. Passionate about building applications for mobile and web. Loves coding and developing algorithms. ",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "",
+        "link" : "https://twitter.com/ssaaauuucce",
         "name" : "twitter"
       } ],
-      "tags" : [ "" ],
-      "title" : ""
+      "tags" : [ "mobile","web" ],
+      "title" : "Software Engineer"
     },{
       "bio" : "  ",
       "company" : "",
