@@ -482,7 +482,7 @@
       "tags" : [ "web","rsponsive","google" ],
       "title" : "Software Engineer"
     } ,{
-      "bio" : "  ",
+      "bio" : " Francis is a Tech Fellow at the Meltwater Entrepreneurial School of Technology where he teaches technologies needed to build successful Companies. Previously, he worked with mFriday, Python African Tour (Python Ghana), Mobile Web Ghana as a trainer and mentor. During which he helped train budding entrepreneurs to find their feet in Software Development. He continuously mentors young engineers on career in Software, producing quality work and embracing best practices. He has years of experience in front-end, backend and mobile development with extensive knowledge in Cloud Computing. He has also led development teams to work on fintech products ranging from cryptocurrency to Consumer finance. ",
       "company" : "",
       "companyLogo" : "",
       "country" : "",
@@ -490,12 +490,16 @@
       "id" : 6,
       "name" : "Francis Addai",
       "photoUrl" : "/images/people/francis_ghana.png",
-      "shortBio" : "",
+      "shortBio" : "Francis is a Tech Fellow at the Meltwater Entrepreneurial School of Technology where he teaches technologies needed to build successful Companies. Previously, he worked with mFriday, Python African Tour (Python Ghana)...",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "",
+        "link" : "https://twitter.com/faddai",
         "name" : "twitter"
-      } ],
+      },{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/faddai",
+        "name" : "linkedin"
+        } ],
       "tags" : [ "git","DevOps","CI/CD" ],
       "title" : "Software Engineer"
     },{
