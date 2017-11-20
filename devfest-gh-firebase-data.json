@@ -503,15 +503,15 @@
       "tags" : [ "git","DevOps","CI/CD" ],
       "title" : "Software Engineer"
     },{
-      "bio" : "  ",
-      "company" : "",
+      "bio" : "  Alfred Rowe is the founder of Encodev Labs and Egotickets. Coding since his early teens, Alfred has worked on a wide range of projects which include internet banking solutions, search engines, corporate intranets, Bulk Messaging Applications and Electronic Payment Systems.",
+      "company" : "Encodev Labs and Egotickets",
       "companyLogo" : "",
-      "country" : "",
+      "country" : "Accra, Ghana",
       "featured" : true,
       "id" : 7,
       "name" : "Alfred Rowe",
       "photoUrl" : "/images/people/rowe_ghana.png",
-      "shortBio" : "",
+      "shortBio" : "Alfred Rowe is the founder of Encodev Labs and Egotickets. Coding since his early teens, Alfred has worked on a wide range of projects which include internet banking solutions....",
       "socials" : [ {
         "icon" : "twitter",
         "link" : "https://twitter.com/nukturnal",
