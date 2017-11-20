@@ -520,18 +520,18 @@
       "tags" : [ "" ],
       "title" : ""
     },{
-      "bio" : "  ",
-      "company" : "",
+      "bio" : "  An IT management professional with over 15 years experience. With experience in software engineering, I started my career as a software trainer. I’ve had the opportunity to coach many young and talented individuals to identify their career path. Experienced in coaching, IT project management, change management, Outsourcing etc.",
+      "company" : "NIIT Accra",
       "companyLogo" : "",
-      "country" : "",
+      "country" : "Accra, Ghana",
       "featured" : true,
       "id" : 8,
       "name" : "Yaw Amoateng",
-      "photoUrl" : "",
-      "shortBio" : "",
+      "photoUrl" : "images/people/yaw_ghana.png",
+      "shortBio" : "An IT management professional with over 15 years experience. With experience in software engineering....",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "",
+        "link" : "https://twitter.com/yamoateng",
         "name" : "twitter"
       } ],
       "tags" : [ "career" ],
@@ -620,7 +620,7 @@ Currently working at Vodafone as CRM Administration Analyst.  ",
       "country" : "",
       "featured" : true,
       "id" : 13,
-      "name" : "from hubtel",
+      "name" : "Ernest Nana Osei-Poku",
       "photoUrl" : "",
       "shortBio" : "",
       "socials" : [ {
@@ -628,16 +628,16 @@ Currently working at Vodafone as CRM Administration Analyst.  ",
         "link" : "",
         "name" : "twitter"
       } ],
-      "tags" : [ "" ],
+      "tags" : [ "product management" ],
       "title" : ""
     },{
       "bio" : "  ",
-      "company" : "",
+      "company" : "CSquared Ghana",
       "companyLogo" : "",
       "country" : "",
       "featured" : true,
       "id" : 14,
-      "name" : "Estelle",
+      "name" : "Estelle Akofio-Sowah",
       "photoUrl" : "/images/people/estelle_ghana.png",
       "shortBio" : "",
       "socials" : [ {
