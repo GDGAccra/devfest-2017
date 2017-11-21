@@ -282,7 +282,7 @@
     },
     "111": {
       "complexity": "Intermediate",
-      "description": "Version Control (Git) / Continuous Delivery",
+      "description": "Continous Delivery with Git",
       "id": 111,
       "language": "English",
       "presentation": "",
@@ -292,7 +292,7 @@
       "tags": [
         "git","CD","CI"
       ],
-      "title": "Version Control (Git) / Continuous Delivery"
+      "title": "Continous Delivery with Git"
     },
     "112": {
       "complexity": "Beginner",
