@@ -534,7 +534,7 @@
         "link" : "https://twitter.com/yamoateng",
         "name" : "twitter"
       } ],
-      "tags" : [ "career" ],
+      "tags" : [ "career coaching","change management" ],
       "title" : ""
     },{
       "bio" : " Data Analyst, SQL and Python Enthusiast and aspiring Data Scientist.
@@ -547,11 +547,6 @@ Currently working at Vodafone as CRM Administration Analyst.  ",
       "name" : "Eyram Seshie",
       "photoUrl" : "/images/people/eyram_ghana.png",
       "shortBio" : "Data Analyst, SQL and Python Enthusiast and aspiring Data Scientist. ",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "#",
-        "name" : "twitter"
-      } ],
       "tags" : [ "db","python" ],
       "title" : "Data Analyst"
     },{
@@ -575,7 +570,7 @@ Currently working at Vodafone as CRM Administration Analyst.  ",
       "bio" : "  ",
       "company" : "",
       "companyLogo" : "",
-      "country" : "",
+      "country" : "Accra, Ghana",
       "featured" : true,
       "id" : 11,
       "name" : "Nathan Fletcher",
@@ -617,7 +612,7 @@ Currently working at Vodafone as CRM Administration Analyst.  ",
       "bio" : "  ",
       "company" : "",
       "companyLogo" : "",
-      "country" : "",
+      "country" : "Accra, Ghana",
       "featured" : true,
       "id" : 13,
       "name" : "Ernest Nana Osei-Poku",
