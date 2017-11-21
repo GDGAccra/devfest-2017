@@ -314,7 +314,7 @@
       "language": "English",
       "presentation": "",
       "speakers": [
-        1
+        13
       ],
       "tags": [
         "Angular","web","pwa"
@@ -398,7 +398,7 @@
       "companyLogo" : "",
       "country" : "Accra, Ghana",
       "featured" : true,
-      "id" : 1,
+      "id" : 13,
       "name" : "REXFORD NKANSAH",
       "photoUrl" : "/images/people/rexford_ghana.png",
       "shortBio" : "My name is Rexford Nkansah, a Senior Web Developer. I build and deploy cross-browser, cross-platform,....",
@@ -617,7 +617,7 @@
       "companyLogo" : "",
       "country" : "Accra, Ghana",
       "featured" : true,
-      "id" : 13,
+      "id" : 14,
       "name" : "Ernest Nana Osei-Poku",
       "photoUrl" : "",
       "shortBio" : "",
@@ -634,7 +634,7 @@
       "companyLogo" : "",
       "country" : "Accra, Ghana",
       "featured" : true,
-      "id" : 14,
+      "id" : 1,
       "name" : "Estelle Akofio-Sowah",
       "photoUrl" : "/images/people/estelle_ghana.png",
       "shortBio" : "Estelle Akofio-Sowah is the Country Manager of CSquared Ghana, previously Google Ghana...",
