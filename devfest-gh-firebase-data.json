@@ -566,7 +566,7 @@
       "tags" : [ "mobile","web" ],
       "title" : "Software Engineer"
     },{
-      "bio" : "  ",
+      "bio" : "  Nathan worked as a resource person in Ashesi’s Computer Science resource centre where he helped students understand computer programming. He’s also proficient in object-oriented programming in Java and NodeJS. With a passion for all things tech, Nathan is a member of DevCongress and the Google Developer Group, two well-known tech communities in Ghana. He also developed Chale Keyboard, which is a local language keyboard for Android phones on the Google Play store - seriously, download it 😜. He gets his inspiration from working with a variety of creators, developers and projects and loves to hear new ideas and ways to be innovative.Taking experiences he's had from working with Ringier, Vodafone and Google, Nathan tries to give support and guidance to young developers to build their apps whenever he can especially when he hangs out at iSpace. When he’s not working, he enjoys designing user experiences for mobile and web platforms.",
       "company" : "",
       "companyLogo" : "",
       "country" : "Accra, Ghana",
@@ -576,10 +576,14 @@
       "photoUrl" : "/images/people/nathan_ghana.png",
       "shortBio" : "",
       "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/KobbyFletcher",
-        "name" : "twitter"
-      } ],
+        "icon" : "medium",
+        "link" : "https://medium.com/@kobby.fletcher",
+        "name" : "medium"
+      },{
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/mrfletcher/",
+        "name" : "linkedin"
+        } ],
       "tags" : [ "devops" ],
       "title" : ""
     },{
