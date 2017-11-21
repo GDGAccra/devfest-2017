@@ -214,13 +214,13 @@
     },
     "105": {
       "complexity": "Intermediate",
-      "description": "Dev 101 - Product Management 101",
-      "title": "Dev 101 - Product Management 101",
+      "description": " Product Management 101",
+      "title": "Product Management 101",
       "id": 105,
       "language": "English",
       "presentation": "",
       "speakers": [
-        13
+        14
       ],
       "tags": [
         "UI"
@@ -228,8 +228,8 @@
     },
     "106": {
       "complexity": "Intermediate",
-      "description": "Dev 101 - Databases",
-      "title": "Dev 101 - Databases",
+      "description": "Databases 101",
+      "title": "Databases 101",
       "id": 106,
       "language": "English",
       "presentation": "",
@@ -242,8 +242,8 @@
     },
     "107": {
       "complexity": "Intermediate",
-      "description": "Dev 101 - Coding 101",
-      "title": "Dev 101 - Coding 101",
+      "description": "Coding 101",
+      "title": "Coding 101",
       "id": 107,
       "language": "English",
       "presentation": "",
@@ -256,8 +256,8 @@
     },
     "108": {
       "complexity": "Intermediate",
-      "description": "Dev 101 - Career Progression",
-      "title": "Dev 101 - Career Progression",
+      "description": "Career Progression 101",
+      "title": "Career Progression 101",
       "id": 108,
       "language": "English",
       "presentation": "",
@@ -314,7 +314,7 @@
       "language": "English",
       "presentation": "",
       "speakers": [
-        13
+        4
       ],
       "tags": [
         "Angular","web","pwa"
@@ -393,22 +393,18 @@
   "speakers": [
     null,
     {
-      "bio" : "My name is Rexford Nkansah, a Senior Web Developer. I build and deploy cross-browser, cross-platform, mobile and web applications using primarily HTML, CSS, Javascript, and Python",
-      "company" : "Freelance",
+      "bio" : "Estelle Akofio-Sowah is the Country Manager of CSquared Ghana, previously Google Ghana. She has over 15 years of experience in the internet and business development industry in Ghana, including being the Managing Director of BusyInternet, Africa’s hugely successful internet startup and being the Country Lead for Google’s operations in Ghana. Highlights of her leadership include launching an award winning ISP, implementing the Ghana chapter of the World Bank Incubator program and launching and promoting various Google products and programs aimed at making the internet an integral part of people’s lives. Estelle majored in Economics and Development Studies at the University of Sussex. Her contributions to the internet sector and commitment to excellence earned her selection as a 2008 Fellow of the African Leadership Initiative. ",
+      "company" : "CSquared Ghana",
       "companyLogo" : "",
       "country" : "Accra, Ghana",
       "featured" : true,
-      "id" : 13,
-      "name" : "REXFORD NKANSAH",
-      "photoUrl" : "/images/people/rexford_ghana.png",
-      "shortBio" : "My name is Rexford Nkansah, a Senior Web Developer. I build and deploy cross-browser, cross-platform,....",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : " https://google.com/+Nkansahrexford",
-        "name" : "Google+"
-      } ],
-      "tags" : [ "Angular", "Web" ],
-      "title" : "Snr Web Developer"
+      "id" : 1,
+      "name" : "Estelle Akofio-Sowah",
+      "photoUrl" : "/images/people/estelle_ghana.png",
+      "shortBio" : "Estelle Akofio-Sowah is the Country Manager of CSquared Ghana, previously Google Ghana...",
+      "tags" : [ "keynote" ],
+      "title" : "Country Manager"
+
     }, {
       "bio" : "Oliver is a student at Ashesi University. Aside from his undergraduate studies, he co-leads Facebook Developer Circles and GDG Ashesi. Started contributing to open source since October 2017,  through the Hacktoberfest program.",
       "company" : "",
@@ -444,26 +440,23 @@
       "tags" : [ "Web", "STEM" ],
       "title" : "CEO of Ampersand Technologies Ltd"
     }, {
-      "bio" : "Everlyne Kaberere is a currently an Entrepreneur In Training(EIT) at MEST Africa, Accra. She has been a Google WTM for GDG Kimathi University and an organizer of Google and Intel events in Kenya. When she is not on her laptop coding and researching, you will find her reading and writing non-fictional stories and novels, watching animations and hanging out with friends. She is super excited about this DevFest, as it is the first away from home!!!!",
-      "company" : "",
+      "bio" : "My name is Rexford Nkansah, a Senior Web Developer. I build and deploy cross-browser, cross-platform, mobile and web applications using primarily HTML, CSS, Javascript, and Python",
+      "company" : "Freelance",
       "companyLogo" : "",
-      "country" : "Nairobi, Kenya",
+      "country" : "Accra, Ghana",
       "featured" : true,
       "id" : 4,
-      "name" : "Everlyne Kaberere",
-      "photoUrl" : "/images/people/everlyne_ghana.png",
-      "shortBio" : "Everlyne Kaberere is a currently an Entrepreneur In Training(EIT) at MEST Africa, Accra....",
+      "name" : "REXFORD NKANSAH",
+      "photoUrl" : "/images/people/rexford_ghana.png",
+      "shortBio" : "My name is Rexford Nkansah, a Senior Web Developer. I build and deploy cross-browser, cross-platform,....",
       "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/kaberereeve",
-        "name" : "twitter"
-      },{
-        "icon" : "linkedin",
-        "link" : "https://ke.linkedin.com/in/everlyne-njeri-kaberere",
-        "name" : "linkedin"
-        } ],
-      "tags" : [ "EIT", "WIT" ],
-      "title" : "Developer"
+        "icon" : "gplus",
+        "link" : " https://google.com/+Nkansahrexford",
+        "name" : "Google+"
+      } ],
+      "tags" : [ "Angular", "Web" ],
+      "title" : "Snr Web Developer"
+
     }, {
       "bio" : " Nigerian Software Engineer. Co-Organiser at GDG Legon. Co-Organiser at forloop Ghana. Technical Writer at https://scotch.io .Tutor at https://www.devlogic.co ",
       "company" : "",
@@ -612,34 +605,44 @@
       "tags" : [ "GCP", "Cloud", "App Engine", "GKE" ],
       "title" : "CTO"
     },{
-      "bio" : "  ",
+      "bio" : "Everlyne Kaberere is a currently an Entrepreneur In Training(EIT) at MEST Africa, Accra. She has been a Google WTM for GDG Kimathi University and an organizer of Google and Intel events in Kenya. When she is not on her laptop coding and researching, you will find her reading and writing non-fictional stories and novels, watching animations and hanging out with friends. She is super excited about this DevFest, as it is the first away from home!!!!",
       "company" : "",
+      "companyLogo" : "",
+      "country" : "Nairobi, Kenya",
+      "featured" : true,
+      "id" : 13,
+      "name" : "Everlyne Kaberere",
+      "photoUrl" : "/images/people/everlyne_ghana.png",
+      "shortBio" : "Everlyne Kaberere is a currently an Entrepreneur In Training(EIT) at MEST Africa, Accra....",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/kaberereeve",
+        "name" : "twitter"
+      },{
+        "icon" : "linkedin",
+        "link" : "https://ke.linkedin.com/in/everlyne-njeri-kaberere",
+        "name" : "linkedin"
+        } ],
+      "tags" : [ "EIT", "WIT" ],
+      "title" : "Developer"
+
+    },{
+      "bio" : " I am currently the Head of Customer Support for Central Africa at Ericsson. Working with mobile telecom operators in Ghana, Chad, Gabon, DRC, Cameroon, Liberia, Equatorial Guinea & Congo B, I head up a team of delivery managers to provide support, repair and services for the region. I am a double Master’s Degree holder in Information Technology and Management Information Systems from the University of Salford, UK, specialising in change & knowledge management. ",
+      "company" : "Ericsson",
       "companyLogo" : "",
       "country" : "Accra, Ghana",
       "featured" : true,
       "id" : 14,
       "name" : "Ernest Nana Osei-Poku",
-      "photoUrl" : "",
-      "shortBio" : "",
+      "photoUrl" : "/images/people/opoku_ghana.png",
+      "shortBio" : "Head of Customer Support (Central Africa) at Ericsson",
       "socials" : [ {
-        "icon" : "twitter",
-        "link" : "",
-        "name" : "twitter"
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/oseipoku",
+        "name" : "linkedin"
       } ],
       "tags" : [ "product management" ],
-      "title" : ""
-    },{
-      "bio" : "Estelle Akofio-Sowah is the Country Manager of CSquared Ghana, previously Google Ghana. She has over 15 years of experience in the internet and business development industry in Ghana, including being the Managing Director of BusyInternet, Africa’s hugely successful internet startup and being the Country Lead for Google’s operations in Ghana. Highlights of her leadership include launching an award winning ISP, implementing the Ghana chapter of the World Bank Incubator program and launching and promoting various Google products and programs aimed at making the internet an integral part of people’s lives. Estelle majored in Economics and Development Studies at the University of Sussex. Her contributions to the internet sector and commitment to excellence earned her selection as a 2008 Fellow of the African Leadership Initiative. ",
-      "company" : "CSquared Ghana",
-      "companyLogo" : "",
-      "country" : "Accra, Ghana",
-      "featured" : true,
-      "id" : 1,
-      "name" : "Estelle Akofio-Sowah",
-      "photoUrl" : "/images/people/estelle_ghana.png",
-      "shortBio" : "Estelle Akofio-Sowah is the Country Manager of CSquared Ghana, previously Google Ghana...",
-      "tags" : [ "keynote" ],
-      "title" : "Country Manager"
+      "title" : "Head of Customer Support (Central Africa) at Ericsson"
     }],
   "videos" : [ {
     "speakers" : "Eugene Wurah",
