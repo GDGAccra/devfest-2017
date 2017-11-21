@@ -214,8 +214,8 @@
     },
     "105": {
       "complexity": "Intermediate",
-      "description": "Dev 101 - UI",
-      "title": "Dev 101 - UI",
+      "description": "Dev 101 - Product Management 101",
+      "title": "Dev 101 - Product Management 101",
       "id": 105,
       "language": "English",
       "presentation": "",
@@ -346,7 +346,7 @@
         11
       ],
       "tags": [
-        "DevOps"
+        "devops"
       ],
       "title": "Loopback, rethinking the dev lifecycle"
     },
@@ -360,7 +360,7 @@
         10
       ],
       "tags": [
-        "IoT"
+        "iot"
       ],
       "title": "Internet of Things And how African Developers must spearhead the revolution in Africa"
     },
@@ -534,7 +534,7 @@
         "link" : "https://twitter.com/yamoateng",
         "name" : "twitter"
       } ],
-      "tags" : [ "career" ],
+      "tags" : [ "career coaching","change management" ],
       "title" : ""
     },{
       "bio" : " Data Analyst, SQL and Python Enthusiast and aspiring Data Scientist. Currently working at Vodafone as CRM Administration Analyst.  ",
@@ -546,11 +546,6 @@
       "name" : "Eyram Seshie",
       "photoUrl" : "/images/people/eyram_ghana.png",
       "shortBio" : "Data Analyst, SQL and Python Enthusiast and aspiring Data Scientist. ",
-      "socials" : [ {
-        "icon" : "twitter",
-        "link" : "#",
-        "name" : "twitter"
-      } ],
       "tags" : [ "db","python" ],
       "title" : "Data Analyst"
     },{
@@ -574,7 +569,7 @@
       "bio" : "  ",
       "company" : "",
       "companyLogo" : "",
-      "country" : "",
+      "country" : "Accra, Ghana",
       "featured" : true,
       "id" : 11,
       "name" : "Nathan Fletcher",
@@ -616,7 +611,7 @@
       "bio" : "  ",
       "company" : "",
       "companyLogo" : "",
-      "country" : "",
+      "country" : "Accra, Ghana",
       "featured" : true,
       "id" : 13,
       "name" : "Ernest Nana Osei-Poku",
