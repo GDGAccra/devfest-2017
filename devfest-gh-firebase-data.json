@@ -155,7 +155,7 @@
           "startTime": "15:10"
         },
         {
-          "endTime": "16:00",
+          "endTime": "15:50",
           "sessions": [
             [
               118
@@ -164,13 +164,21 @@
           "startTime": "15:30"
         },
         {
-          "endTime": "17:00",
+          "endTime": "16:30",
           "sessions": [
             [
               119
             ]
           ],
           "startTime": "16:00"
+        },{
+          "endTime": "17:00",
+          "sessions": [
+            [
+              120
+            ]
+          ],
+          "startTime": "16:30"
         }
       ],
       "tracks": [
@@ -378,14 +386,27 @@
       "title": "Building World Class Apps with Google"
     },
     "118": {
-      "description": "Coffeeeeeee!",
+      "complexity": "Beginner",
+      "description": "IoT / Samrt Bins",
       "id": 118,
+      "language": "English",
+      "speakers": [
+        16
+      ],
+      "tags": [
+        "iot"
+      ],
+      "title": "IoT / Samrt Bins"
+    },
+    "119": {
+      "description": "Coffeeeeeee!",
+      "id": 119,
       "image": "/images/backgrounds/coffee-break.jpg",
       "title": "Coffee break"
     },
-    "119": {
+    "120": {
       "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
-      "id": 119,
+      "id": 120,
       "image": "/images/backgrounds/closing.jpg",
       "title": "Closing and contest winners announcements"
     }
