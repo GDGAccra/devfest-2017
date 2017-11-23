@@ -643,6 +643,40 @@
       } ],
       "tags" : [ "product management" ],
       "title" : "Head of Customer Support (Central Africa) at Ericsson"
+    },{
+      "bio" : " Cofounder of Skrife, former Head of Marketing Communications at one of Africa’s top startup incubators - MEST Africa, Udacity & Google Women techmakers’ Scholarship recipient, and Creator of the Tech Roundup, Kelechi is a technology evangelist and communications professional with a heart for educating and empowering the next generation of Africans to leverage effective communications and presentations, creative technology and new opportunities, and overall youth empowerment through informal education, mentorship and openness to new experiences.",
+      "company" : "Skrife",
+      "companyLogo" : "",
+      "country" : "",
+      "featured" : true,
+      "id" : 15,
+      "name" : "Kelechi Udoagwu",
+      "photoUrl" : "/images/people/kelechie_ghana.png",
+      "shortBio" : "Cofounder of Skrife, former Head of Marketing Communications at one of Africa’s top startup incubators - MEST Africa, Udacity & Google Women techmakers’ Scholarship recipient, and Creator of the Tech Roundup...",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://gh.linkedin.com/in/kelechiudoagwu",
+        "name" : "linkedin"
+      } ],
+      "tags" : [ "WIT","WTM" ],
+      "title" : "Cofounder of Skrife"
+    },{
+      "bio" : "Student at Kwame Nkrumah University of Science and Technology, Offering a coruse in  Computer Science. IoT Specialist and the developer for SmartBin. She she is also the  Global Organiser for  PROBLEM HUNTERS FOUNDATION ",
+      "company" : "",
+      "companyLogo" : "",
+      "country" : "Accra, Ghana",
+      "featured" : true,
+      "id" : 16,
+      "name" : "Doreenda Shika Nikoi Kotei",
+      "photoUrl" : "/images/people/doreen_ghana.png",
+      "shortBio" : "Student at Kwame Nkrumah University of Science and Technology...",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/NikoiDoreenda",
+        "name" : "twitter"
+      } ],
+      "tags" : [ "" ],
+      "title" : ""
     }],
   "videos" : [ {
     "speakers" : "Eugene Wurah",
